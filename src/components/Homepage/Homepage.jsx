@@ -69,7 +69,7 @@ function Homepage(props) {
                 delay: 1,
               }}
             >
-              Mate
+              Bulder
             </motion.span>
           </div>
 
